@@ -1,0 +1,288 @@
+*{
+   
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding-top: 10px;
+   box-sizing: border-box;
+   
+   
+   
+}
+body{
+   background-color: #303E47;
+}
+#img{
+   
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   text-align: center;
+   border: 4px solid white;
+   display: inline-block;
+   padding: 5px;
+    
+    position: relative;
+    left: 300px;
+    top: 9px;
+   
+}
+.title{
+   display: inline-block;
+   color: #FF585B;
+   font-size: 6.5rem;
+   margin: 0;
+   position: relative;
+   bottom: 50px;
+   text-align: center;
+   
+   left: 350px;
+}
+.description{
+   text-align: center;
+   display: inline-block;
+   color: #fff;
+   right:70px;
+   
+   font-size: 1.8rem;
+   position: relative;
+   
+   
+}
+.container1{
+  margin-top: 70px;
+   
+   width: 50%;
+   display: inline-block;
+   height: 450px;
+   text-align: center;
+   color: #fff;
+   background-color: #fba01c;
+   padding: 30px;
+}
+.container2{
+   height: 450px;
+   width: 50%;
+   float: right;
+   display: block;
+   padding: 100px;
+   margin-top: 70px;
+   color: #fff;
+   background-color: #00B2E2;
+   text-align: center;
+   padding: 30px;
+   
+}
+.child{
+ height: 60px;
+ width: 70px;
+}
+p{
+   display: block;
+   margin: 0px;
+   
+}
+.head{
+   font-weight: bold;
+   font-size: 3em;
+   text-align: center;
+   
+   
+}
+.incr{
+   
+   font-size: 3em;
+   font-weight: bold;
+   text-align: center;
+
+}
+.uline{
+   text-decoration: underline;
+   font-size: 1em;
+   font-weight: bold;
+}
+.c1-title{
+   font-size: 1.5rem;
+   
+}
+.middle{
+   font-size: x-large;
+}
+.lunch,.time{
+   font-size: 3.21rem;
+   font-weight: bold;
+}
+.container3{
+   height:450px;
+   background-color: #FF585B;
+   margin-top: 50px;
+   color:white ;
+   
+}
+.left{
+   font-size: 2.5em;
+   font-weight: bold;
+   text-align: left;
+   margin-left: 100px;
+}
+.icon{
+   height: 70px;
+ width: 100px;
+  position: relative;
+  left: 53%;
+  bottom:100px;
+}
+.label{
+   position: relative;
+  left: 53%;
+  bottom:90px;
+}
+.sapce{
+   padding-left: 65px;
+}
+.sce{
+   
+   padding-left: 20px;
+}
+.c2cont{
+   font-size: 1.6em;
+
+   margin-left: 100px;
+  
+}
+.container4{
+   margin-top: 70px;
+   background-color: #00B2E2;
+    width: 50%;
+    display: inline-block;
+    height: 350px;
+    
+    color: #fff;
+    
+    padding: 0px 10px;
+ }
+ .container5{
+   height: 350px;
+   width: 50%;
+   float: right;
+   display: block;
+   padding: 100px;
+   margin-top: 70px;
+   color: #fff;
+   background-color: #00B2E2;
+   
+   padding: 15px 30px;
+   
+}
+.c4-title{
+   font-size: 1em;
+   font-weight: bold;
+}
+.container4{
+   font-size: 1.4em;
+}
+.container5{
+   padding-top: 70px;
+   
+   font-size: 1.7em;
+}
+  .container6{
+   
+margin-top: 70px;
+    
+    width: 50%;
+    display: inline-block;
+    height: 500px;
+    text-align: center;
+    color: #fff;
+    background-color:#FF585B ;
+    padding: 30px;
+    
+ }
+ .container7{
+    height: 500px;
+    width: 50%;
+    float: right;
+    display: block;
+    padding: 100px;
+    margin-top: 70px;
+    color: #fff;
+    background-color: #fba01c;
+    text-align: center;
+    
+    
+ }
+ .large{
+    font-size:2em;
+    font-weight: bold;
+ }
+ .new{
+     font-size: 1.6em;
+ }
+ #larger{
+    font-size: 1.8em;
+ }
+ .ff{
+   height: 100px;
+   width: 100px;
+ }
+ .container8{
+    height:300px;
+    background-color:#00B2E2 ;
+    padding: 50px;
+    margin-top: 70px;
+    padding-left: 80px;
+    color: #fff;
+
+ }
+ .one{
+    font-size: 4em;
+ }
+ .tv{
+   height: 300px;
+   width: 300px;
+    position: relative;
+    left: 70%;
+    bottom: 300px;
+ }
+ .container9{
+   height:300px;
+   background-color:#fba01c ;
+   padding: 50px;
+   margin-top: 70px;
+   padding-left: 80px;
+   color: #fff;
+
+}
+.container10{
+   
+   margin-top: 70px;
+       
+       width: 50%;
+       display: inline-block;
+       height: 500px;
+       text-align: center;
+       color: #fff;
+       background-color: #00B2E2 ;
+       padding: 30px;
+       
+    }
+    .container11{
+       height: 500px;
+       width: 50%;
+       float: right;
+       display: block;
+       padding: 50px;
+       margin-top: 70px;
+       color: #fff;
+       background-color: #FF585B;
+       text-align: center;
+       
+       
+    }
+    .money{
+       width: 200px;
+       height: 150px;
+    }
+    .c11-title{
+         font-weight: bold;
+         font-size: 2em;
+    }
